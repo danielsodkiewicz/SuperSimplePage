@@ -1,4 +1,6 @@
 SuperSimplePage
 ===============
 
-One page html/css webpage, perfect for personal sites and landing pages.
+![SuperSimplePage](https://raw.githubusercontent.com/danielsodkiewicz/SuperSimplePage/master/supersimplepage.jpg)
+
+Responsive, simple, modern, easy to edit one page website. One page html/css webpage, perfect for personal sites and landing pages.
